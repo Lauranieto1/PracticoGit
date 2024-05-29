@@ -32,3 +32,6 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 ***
 He first line of **Lorem Ipsum**, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
 ***
+
+Nota= Trabajo realizado por Paula Montesino.
+
